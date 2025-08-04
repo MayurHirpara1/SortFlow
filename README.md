@@ -1,6 +1,6 @@
 # SortFlow
 
-**SortLab** is an interactive web application designed to help users understand and visualize how different sorting algorithms work in real time. Built using **React** and **Tailwind CSS**, SortLab offers an engaging way to explore sorting techniques through smooth, dynamic animations.
+**SortFlow** is an interactive web application designed to help users understand and visualize how different sorting algorithms work in real time. Built using **React** and **Tailwind CSS**, SortLab offers an engaging way to explore sorting techniques through smooth, dynamic animations.
 
 ## 🚀 Features
 
@@ -9,11 +9,6 @@
 - 🛠️ **Interactive Controls**: Customize array size, animation speed, and choose different algorithms to visualize.
 - ⚙️ **Built with Modern Tools**: Developed using React and styled with Tailwind CSS for fast, efficient, and maintainable development.
 - 🌐 **Fully Free to Use**: No sign-ups or authentication required. Open and accessible for everyone.
-
-## 📸 Demo
-
-[SortLab](https://sorting-visualizer-rahul-goswamis-projects-c6755eb5.vercel.app/) 
-
 
 ## Tech Stack
 
